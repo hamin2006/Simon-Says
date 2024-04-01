@@ -90,4 +90,3 @@ function startOver() {
     gamePattern = [];
     userClickedPattern = [];
 }
-    
